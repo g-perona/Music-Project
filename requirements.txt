@@ -2,4 +2,4 @@ numpy
 matplotlib
 simpleaudio
 ipywidgets
-IPython.display
+IPython
