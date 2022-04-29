@@ -1,3 +1,5 @@
 numpy
 matplotlib
 simpleaudio
+ipywidgets
+IPython.display
