@@ -3,4 +3,3 @@ matplotlib
 simpleaudio
 ipywidgets
 IPython
-mpl_toolkits.mplot3d
