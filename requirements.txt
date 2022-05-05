@@ -3,6 +3,3 @@ matplotlib
 simpleaudio
 ipywidgets
 IPython
-smtplib
-mimetypes
-email
